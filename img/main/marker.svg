@@ -1,0 +1,23 @@
+<svg id="marker.svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="73" height="91" viewBox="0 0 73 91">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #197d5c;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="946" y="4488" width="73" height="91" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="1.259" dy="1.554" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="4"/>
+      <feFlood result="flood" flood-opacity="0.13"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="placeholder" class="cls-1" d="M981,4501a21.207,21.207,0,0,0-21,21.37c0,14.62,18.793,36.08,19.593,36.99a1.871,1.871,0,0,0,2.814,0c0.8-.91,19.593-22.37,19.593-36.99A21.208,21.208,0,0,0,981,4501Zm0,32.12a10.752,10.752,0,1,1,10.565-10.75A10.676,10.676,0,0,1,981,4533.12Z" transform="translate(-946 -4488)"/>
+  <ellipse class="cls-2" cx="35" cy="72.5" rx="11" ry="1.5"/>
+</svg>

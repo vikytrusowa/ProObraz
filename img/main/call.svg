@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12" viewBox="0 0 12 12">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.4;
+      }
+    </style>
+  </defs>
+  <image id="call.svg" class="cls-1" width="12" height="12" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAs0lEQVQokYXRvWpCQRCG4UcRErQICEksrKJp4mVok5CrTRWTViR4EYKFYhW1EEGUExb2wBL2cKb7Zr5352cbRVHIRAPPeMF9zK0xzwFtTNDLPHRs/Ut08YpOri32zUTc4T0xX7FM6htMyw43eMNt1Dt84RB3ecQPLuUOYwyi+RcfOOdmaka6NIcxvqvMJTBK9CqOURkB6Cf6CcM6ICycxkMdsE10ON2iDpjhFL/+M5yu0o0/KVkl+bV08h0AAAAASUVORK5CYII="/>
+</svg>

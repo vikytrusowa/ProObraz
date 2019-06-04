@@ -1,0 +1,57 @@
+.price{
+  background: #f3f3f4;
+  padding: 14px 0 90px;
+
+  &__table{
+    font-family: 'Proxima Nova Regular';
+    font-size: 16px;
+    font-weight: 400;
+    color: #000000;
+    width: 100%;
+    & td{
+      background-color: #fbfbfc;
+      padding: 11px 25px;
+    }
+  }
+  &__name{
+    color: #197d5c;
+    font-weight: 700;
+
+  }
+  &__code{
+    width: 23%;
+  }
+  &__value{
+    width: 18%;
+  }
+  &__subtitle{
+    font-family: 'Proxima Nova Regular' ;
+    font-weight: 700;
+    text-transform: uppercase;
+    position: relative;
+
+    &:before{
+      content: "";
+      width: 8px;
+      height: 8px;
+      background-color: #177354;
+      position: absolute;
+      left: 25px;
+      top: 43px;
+      border-radius: 50%;
+    }
+  }
+  &__table .price__name{
+    background-color: #e0e0e0;
+    padding: 15px 25px;
+    font-family: 'Raleway', sans-serif;
+  }
+  &__table .price__subtitle{
+    background: #f3f3f4;
+    padding: 40px 40px 15px;
+  }
+
+}
+.h2.price__title{
+  margin-bottom: 8px;
+}
